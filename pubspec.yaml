@@ -1,0 +1,7 @@
+name: dart_playground
+
+
+
+dependencies:
+  ffi: ^0.1.3
+  dart_console: ^0.4.0
